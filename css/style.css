@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@media (max-width: 600px) {
+  /* Gaya untuk layar dengan lebar maksimal 600px */
+}
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
